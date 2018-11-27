@@ -1,0 +1,11 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "commonutilities": "^1.0.31",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "npm": "^6.4.1"
+  }
+}
